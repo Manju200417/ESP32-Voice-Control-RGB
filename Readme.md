@@ -166,6 +166,12 @@ stop
 
 ---
 
+## 🎬 Demo Video
+
+<a href="https://www.youtube.com/watch?v=lZ-FDM_3Ecw">
+  <img src="https://img.youtube.com/vi/lZ-FDM_3Ecw/maxresdefault.jpg" width="200">
+</a>
+
 ## 🔌 Circuit
 
 GPIO → Resistor → LED → GND
